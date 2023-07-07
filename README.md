@@ -28,7 +28,7 @@ Users can use emojis in their messages.
    ![Screenshot (17)](https://github.com/varsha2503/realTimeChatApp/assets/106471875/e4c03642-7064-4f44-97f3-b987b6106af7)
 5. Messaging interface: Chat with our user-friendly messaging interface.
 
-  ![Screenshot (16)](https://github.com/varsha2503/realTimeChatApp/assets/106471875/fa286191-0413-4a43-ba17-e391ce228a48)
+   ![Screenshot (16)](https://github.com/varsha2503/realTimeChatApp/assets/106471875/fa286191-0413-4a43-ba17-e391ce228a48)
 
 ## Installation
 1. Clone the repository:
