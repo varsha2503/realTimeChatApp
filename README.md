@@ -1,4 +1,4 @@
-# Real-Time Chat App
+# REAL-TIME CHAT APP
 ## Coding Club Project Submission
 This repository contains a real-time chat application built using Node.js and Socket.io. The chat app allows users to communicate with each other in real time, creating and joining chat rooms.
 ## Features
@@ -13,6 +13,23 @@ Users can choose an avatar to represent themselves in the chat.
     Users can log in using their registered credentials.
 #### Emoji support: 
 Users can use emojis in their messages.
+## Interface
+1. Log-in page- Ready to get chatting? Log in here to join!
+
+   ![Screenshot (11)](https://github.com/varsha2503/realTimeChatApp/assets/106471875/43ad16c3-b8b5-4d2b-a071-2634b8113a9a)
+2.  Sign-up page- New to the chat scene? Sign up and become part of the community.
+
+    ![Screenshot (13)](https://github.com/varsha2503/realTimeChatApp/assets/106471875/3d1fc734-1bf9-4017-b8cf-0488a4963a6b)
+3. Avatar selection: Choose a cool avatar to represent yourself in the chat.
+
+    ![Screenshot (15)](https://github.com/varsha2503/realTimeChatApp/assets/106471875/00fdf4d5-f932-40b8-b5b5-29010a4b71f5)
+4. Select a chat to start messaging.
+
+   ![Screenshot (17)](https://github.com/varsha2503/realTimeChatApp/assets/106471875/e4c03642-7064-4f44-97f3-b987b6106af7)
+5. Messaging interface: Chat with our user-friendly messaging interface.
+
+  ![Screenshot (16)](https://github.com/varsha2503/realTimeChatApp/assets/106471875/fa286191-0413-4a43-ba17-e391ce228a48)
+
 ## Installation
 1. Clone the repository:
     git clone https://github.com/varsha2503/realTimeChatApp.git
