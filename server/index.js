@@ -32,20 +32,13 @@ if (process.env.NODE_ENV === "production") {
   });
 }
 
-// --------------------------deployment------------------------------
-
-
-
-
-const server = app.listen(process.env.PORT, () => {
-  console.log(`Server started on ${process.env.PORT}`)
+const PORT = 1000 ;
+const server = app.listen(PORT, () => {
+  console.log(`Server started on ${PORT}`)
 });
 
 mongoose
-  .connect(process.env.MONGO_URL, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  })
+  .connect("mongodb+srv://jiggupunnu:somework@cluster0.d6nryyn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
   .then(() => {
     console.log("DB Connetion Successfull");
   })
@@ -78,5 +71,6 @@ io.on("connection", (socket) => {
     }
   });
 });
+
 
 
